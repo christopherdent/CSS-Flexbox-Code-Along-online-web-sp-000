@@ -37,8 +37,8 @@ footer {
 
 
 .item {
-  
-  width: 100px;
+  height: 100px;
+  width: ;
   margin: 5px;
   background-color: #FCF2EC;
 }
